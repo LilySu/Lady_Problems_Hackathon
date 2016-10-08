@@ -5,7 +5,7 @@ How to start a business
 
 ## Introduction
 
-* Creatina business is difficult when you're not sure how to get started.
+* Creating business is difficult when you're not sure how to get started.
 * There are a lot of applications that help individual aspects of them, from
   keeping track of finances, prospective meetings, employees, etc.
 * We wish to create an application that in general helps you get started, from
@@ -24,6 +24,7 @@ How to start a business
 	* Prospective employees and interns
 	* Real estate -- office space
 	* Marketing and Sales -- this is what all of it really is.
+
 * Attend meetings
 
 
@@ -40,6 +41,8 @@ How to start a business
 * One might not know how to `___`
 
 ## Solutions we can provide
-
+* Mobile app for basic business support services
+* Manage contacts and customer info 
+* track sales and expenses for P&L and tax purposes - records of sales and profits can help in obtaining access to loans
 
 
