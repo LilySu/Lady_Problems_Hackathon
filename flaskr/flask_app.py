@@ -29,16 +29,11 @@ app.config['STORMPATH_APPLICATION'] = 'flaskr'
  
 stormpath_manager = StormpathManager(app)
 
-@app.route('/')
-def show_posts():
-    return "Posts!"
-#     posts = []
-#     for account in stormpath_manager.application.accounts:
-#         if account.custom_data.get('posts'):
-#             posts.extend(account.custom_data['posts'])
+#Flask app goes here 
+@app.route("/")
+def index():
+    return "Index Page"
 
-#         posts = sorted(posts, key=lambda k: k['date'], reverse=True)
-#     return render_template('show_posts.html', posts=posts)
 
 @app.route('/add', methods=['POST'])
 @login_required
